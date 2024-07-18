@@ -71,4 +71,54 @@ header .search .search-container button {
     border-radius: 0 2px 2px 0;
     cursor: pointer;
 }
+header .login{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    margin:0 20px;
+}
+header .login button {
+    width:122px;
+    padding:5px 48px;
+    font-size:16px;
+    font-weight: 600;
+    color: var(--primary-color);
+}
+header .become-seller {
+    height: 100%;
+    display: flex;
+    margin: 0 20px;
+    color: white;
+    align-items: center;
+    font-size:16px;
+    font-weight: 500;
+}
 
+header .more{
+    height: 100%;
+    display: flex;
+    margin: 0 20px;
+    color: white;
+    align-items: center;
+    font-size:16px;
+    font-weight: 500;
+    
+}
+header .more svg{
+    margin-left: 8px;
+    rotate: -90deg;
+
+}
+header .cart{
+    height: 100%;
+    display: flex;
+    margin: 0 20px;
+    color: white;
+    align-items: center;
+    font-size:16px;
+    font-weight: 500;
+
+}
+header .cart svg{
+    margin-right:8px;
+}
