@@ -253,4 +253,21 @@ header .cart svg{
     font-size: 12px;
 }
 
- 
+ .section-5{
+    margin-top:8px;
+    display: flex;
+    justify-content: space-between;
+
+ }
+ .section-5 img{
+    width:33%
+ }
+ /* footer */
+footer {
+    margin-top: 26px;
+    background-color: white;
+    padding: 25px;
+    text-align: center;
+    font-size: 14px;
+    color: #878787 ;
+}
